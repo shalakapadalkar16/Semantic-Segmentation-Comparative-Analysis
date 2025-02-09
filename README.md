@@ -52,3 +52,9 @@ python comparison.py
 ---
 ## Conclusion
 This project provides insights into the strengths and weaknesses of U-Net and SegFormer for semantic segmentation tasks. Detailed results and visulizations and are presented in the ```plots/``` folder.
+
+---
+## Contributors
+- **Shalaka Padalkar** - [GitHub Profile](https://github.com/shalakapadalkar16)
+- **Rucha Pendharkar**
+- **Yutika Chougule**
